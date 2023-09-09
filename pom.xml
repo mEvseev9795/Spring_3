@@ -7,6 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>Servlet_Containers</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
     <packaging>war</packaging> //!!! Важно. Это нужно для подключения артифакта war exploded для tomcat в intellij idea ultimate     
 
     <properties>
